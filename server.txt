@@ -1,0 +1,19 @@
+Connection Info
+Connection String
+
+mysql://ssjab7cnbjby47f2:bmg1mjvr2qxfpzhp@tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ht1xvyt0aouo8zl1
+
+
+You can use your connection information to connect manually through a client such as MySQL Workbench to administer your database.
+
+Property	Value
+Host	tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+Username	ssjab7cnbjby47f2
+Password	
+bmg1mjvr2qxfpzhp  Reset
+Port	3306
+Server Status
+
+JAWSDB_URL: mysql://ssjab7cnbjby47f2:bmg1mjvr2qxfpzhp@tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ht1xvyt0aouo8zl1
+
+
